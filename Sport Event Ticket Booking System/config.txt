@@ -1,0 +1,5 @@
+Date: Sun Dec 08 10:31:50 IST 2024
+totalTickets=100
+ticketReleaseRate=1000
+customerRetrievalRate=2000
+maxTicketCapacity=90
